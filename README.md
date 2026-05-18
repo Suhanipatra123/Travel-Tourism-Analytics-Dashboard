@@ -3,7 +3,6 @@
 ## 🔗 Live Dashboard
 [Click Here to View Live Dashboard]-https://app.powerbi.com/groups/76a50c68-86cc-4e5a-adac-636ebd3a6a73/reports/e63294a5-187d-4c7e-a489-798f314f7002/4ad87b2b63cd0a1f7bba?experience=power-bi
 
----
 
 # 📌 Project Overview
 
@@ -19,13 +18,11 @@ This dashboard helps in understanding:
 
 The project focuses on transforming raw booking data into meaningful business insights using **Power BI**.
 
----
 
 # 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot](Dashboard%20Screenshot(img).png)
 
----
 
 # 🎯 Problem Statement
 
@@ -40,7 +37,6 @@ Without proper analysis, it becomes difficult to identify:
 
 This project was created to solve these challenges using interactive visual analytics.
 
----
 
 # 🎯 Objectives
 
@@ -52,7 +48,6 @@ This project was created to solve these challenges using interactive visual anal
 - Monitor cancellation rate and guest behavior
 - Create an interactive dashboard for business decision-making
 
----
 
 # 🛠️ Tools & Technologies Used
 
@@ -64,7 +59,6 @@ This project was created to solve these challenges using interactive visual anal
 | Excel/CSV Dataset | Data Source |
 | Data Visualization | Business Insights |
 
----
 
 # 📊 Dashboard Features
 
@@ -81,15 +75,13 @@ The dashboard includes important KPIs such as:
 
 These KPIs help in quick business performance analysis.
 
----
 
 ## 📈 Revenue Over Time
 A line chart is used to analyze monthly revenue trends and identify high-performing months.
 
 ### Key Insight:
 - Revenue shows significant growth during peak months.
-
----
+  
 
 ## 🏨 Bookings by Hotel
 A donut chart compares booking contribution between:
@@ -99,7 +91,6 @@ A donut chart compares booking contribution between:
 ### Key Insight:
 - City Hotels contribute the highest number of bookings.
 
----
 
 ## 📊 Bookings by Market Segment
 This visual analyzes bookings across:
@@ -112,7 +103,6 @@ This visual analyzes bookings across:
 ### Key Insight:
 - Online Travel Agencies generate the highest bookings.
 
----
 
 ## 📉 Bookings by Distribution Channel
 A ribbon chart visualizes booking distribution across hotel types and channels over different months.
@@ -120,7 +110,6 @@ A ribbon chart visualizes booking distribution across hotel types and channels o
 ### Key Insight:
 - City Hotels dominate bookings across most periods.
 
----
 
 ## 🌍 Bookings by Country
 A table visual displays top contributing countries based on hotel bookings.
@@ -128,7 +117,6 @@ A table visual displays top contributing countries based on hotel bookings.
 ### Key Insight:
 - European countries contribute a major share of bookings.
 
----
 
 ## 🧑‍🤝‍🧑 Bookings by Customer Type
 A pie chart analyzes booking contribution by customer categories:
@@ -140,7 +128,6 @@ A pie chart analyzes booking contribution by customer categories:
 ### Key Insight:
 - Transient customers contribute the majority of bookings.
 
----
 
 ## 🍽️ Total Bookings by Meal Type
 A donut chart analyzes meal preference among guests:
@@ -151,7 +138,6 @@ A donut chart analyzes meal preference among guests:
 ### Key Insight:
 - BB Meal Type is the most preferred choice among guests.
 
----
 
 ## 🌎 Top 10 Country Pairs by Bookings
 A bar chart compares hotel bookings across top country-hotel combinations.
@@ -159,7 +145,6 @@ A bar chart compares hotel bookings across top country-hotel combinations.
 ### Key Insight:
 - Certain country-hotel combinations contribute significantly higher bookings.
 
----
 
 ## 📅 Total Bookings by Arrival Month
 A column chart analyzes monthly booking patterns.
@@ -167,7 +152,6 @@ A column chart analyzes monthly booking patterns.
 ### Key Insight:
 - August and July recorded the highest bookings.
 
----
 
 # 🎛️ Interactive Filters
 
@@ -181,7 +165,6 @@ The dashboard includes slicers for:
 
 These filters improve dashboard interactivity and user experience.
 
----
 
 # 📌 Key Insights
 
@@ -192,7 +175,6 @@ These filters improve dashboard interactivity and user experience.
 - Transient customers dominate hotel bookings.
 - August recorded the highest booking count.
 
----
 
 # 🧠 Concepts Covered
 
@@ -205,7 +187,6 @@ These filters improve dashboard interactivity and user experience.
 - Data Visualization
 - Business Insight Generation
 
----
 
 # 📂 Project Files Included
 
@@ -217,7 +198,6 @@ These filters improve dashboard interactivity and user experience.
 | Unclean Dataset | Raw dataset used for analysis |
 | README.md | Project documentation |
 
----
 
 # 🚀 How to Use
 
@@ -226,7 +206,6 @@ These filters improve dashboard interactivity and user experience.
 3. Explore visuals using filters and slicers
 4. Analyze trends and insights interactively
 
----
 
 # 📈 Business Impact
 
@@ -237,7 +216,6 @@ This dashboard helps businesses:
 - Identify booking trends
 - Support data-driven decisions
 
----
 
 # 👩‍💻 Author
 
@@ -250,10 +228,8 @@ Aspiring Data Analyst passionate about:
 - Data Visualization
 - Business Analytics
 
----
 
 # ⭐ If you liked this project
 
 Please give this repository a ⭐ on GitHub.
 
----
